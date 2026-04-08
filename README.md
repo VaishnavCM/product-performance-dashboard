@@ -4,7 +4,7 @@
 
 ## 👤 Author Bio
 
-Hello! I’m a data enthusiast with hands-on experience in SQL, Python, and Power BI.  
+Hello! I’m  Vaishnav ,a data enthusiast with hands-on experience in SQL, Python, and Power BI.  
 This project demonstrates how I applied these tools across the data analysis lifecycle:
 
 - **SQL**: For querying and transforming raw data in SSMS (SQL Server Management Studio)  
@@ -144,8 +144,6 @@ This section outlines the key visuals included in the Power BI dashboard, with e
 
 ## 📬 Contact
 
-> Email: [adarshvr67@gmail.com]  
-> linkedin: [https://www.linkedin.com/in/adarsh-vr96]
-> Portfolio: [https://adarshvr-96.github.io/Portfolio/]
+> Email: [vaishnavcm30@gmail.com]  
 
 ---
